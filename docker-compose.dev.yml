@@ -52,7 +52,6 @@ volumes:
   postgres_data:
   node_modules:
   venv:
-
 networks:
   network-backend:
   network-frontend:
